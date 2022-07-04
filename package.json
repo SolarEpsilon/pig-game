@@ -1,0 +1,19 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "A two-player game with the goal of reaching 100 points. Saving your current points ends your turn, and rolling a 1 resets all your points!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolarEpsilon/pig-game.git"
+  },
+  "author": "Ronan Magnus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolarEpsilon/pig-game/issues"
+  },
+  "homepage": "https://github.com/SolarEpsilon/pig-game#readme"
+}
